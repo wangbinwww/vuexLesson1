@@ -3,13 +3,7 @@
 ## Project setup
 
 ```
-npm install 0112
-npm install 0112
-npm install 0117
-npm install 0118
-npm install 0120
-npm install 0119
-npm install 011a
+npm install
 git remote add origin https://github.com/wangbinwww/vuexLesson1.git
 ```
 
