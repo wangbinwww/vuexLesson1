@@ -5,6 +5,7 @@
 ```
 npm install 0112
 npm install 0112
+npm install 0112
 git remote add origin https://github.com/wangbinwww/vuexLesson1.git
 ```
 
